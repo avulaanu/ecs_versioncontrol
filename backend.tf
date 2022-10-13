@@ -1,10 +1,10 @@
 
 terraform {
   cloud {
-    organization = "Tf_cloud"
+    organization = "anasuya"
 
     workspaces {
-      name = "ECS_WS"
+      name = "Anasuya"
     }
   }
 }
