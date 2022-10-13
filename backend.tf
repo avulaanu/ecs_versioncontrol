@@ -1,4 +1,3 @@
-
 terraform {
   cloud {
     organization = "anasuya"
@@ -8,8 +7,3 @@ terraform {
     }
   }
 }
-
-
-
-
-
